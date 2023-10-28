@@ -1,0 +1,2 @@
+hello world \n
+this is my SmallTalk
